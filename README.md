@@ -16,3 +16,5 @@ The research focuses on the following questions:
 
 By answering these questions, this study aims to provide insights into the strengths of machine learning in healthcare
 and its potential for enhancing early diabetes detection.
+
+![image info](Babaei,S-BTM710-Poster.pdf)
