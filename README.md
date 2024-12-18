@@ -1,4 +1,8 @@
 # The Role of Machine Learning in Predicting Diabetes
+![POSTER](Babaei,S-BTM710-Poster.pdf)
+![NOTEBOOK](Babaei,S_BTM710_FP.ipynb)
+![RESEARCH](Babaei,S-BTM710-FP.pdf)
+![SLIDES-WITH-NOTES](Babaei,S-BTM710-FPresentation.pptx)
 
 Diabetes is a major health concern in the United States and Canada, as well as globally, affecting millions of individuals.
 Early prediction and intervention can significantly improve patient outcomes, reduce complications, and improve
@@ -17,7 +21,4 @@ The research focuses on the following questions:
 By answering these questions, this study aims to provide insights into the strengths of machine learning in healthcare
 and its potential for enhancing early diabetes detection.
 
-![POSTER](Babaei,S-BTM710-Poster.pdf)
-![NOTEBOOK](Babaei,S_BTM710_FP.ipynb)
-![RESEARCH](Babaei,S-BTM710-FP.pdf)
-![SLIDES-WITH-NOTES](Babaei,S-BTM710-FPresentation.pptx)
+
