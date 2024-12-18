@@ -17,7 +17,7 @@ The research focuses on the following questions:
 By answering these questions, this study aims to provide insights into the strengths of machine learning in healthcare
 and its potential for enhancing early diabetes detection.
 
-![click here for the poster](Babaei,S-BTM710-Poster.pdf)
-![click here for the ipython notebook](Babaei,S_BTM710_FP.ipynb)
-![click here for the final paper](Babaei,S-BTM710-FP.pdf)
-![click here for the slides](Babaei,S-BTM710-FPresentation.pptx)
+![POSTER](Babaei,S-BTM710-Poster.pdf)
+![NOTEBOOK](Babaei,S_BTM710_FP.ipynb)
+![RESEARCH](Babaei,S-BTM710-FP.pdf)
+![SLIDES-WITH-NOTES](Babaei,S-BTM710-FPresentation.pptx)
